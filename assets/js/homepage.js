@@ -1,1 +1,3 @@
 var home = {};
+
+var another = {};
